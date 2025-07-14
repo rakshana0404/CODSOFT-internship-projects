@@ -29,7 +29,7 @@ Focused on readability, brand consistency, and aesthetic presentation
 
 🔗 Preview & Access
 You can view all designs here:
-📁 
+📁 https://github.com/rakshana0404/CODSOFT-internship-projects
 
 💡 Tools & Skills Used
 Tool: Canva
